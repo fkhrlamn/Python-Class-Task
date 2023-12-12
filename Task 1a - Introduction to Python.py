@@ -37,7 +37,7 @@ nums = []
 print("Enter the elements inside one by one:-")
 #iterating untill the desired range
 for i in range(N):
-    num = int(input())
+    num = float(input())
     nums.append(num) #adding nums of elements
 
 #display output
