@@ -42,8 +42,8 @@ for i in range(N):
 
 #display output
 print("\nThe output of the program:")
-print(f"Total value: {get_total(nums)}")
-print(f"Average value: {get_average(nums)}")
+print(f"Total value: {get_total(nums) :.2f}")
+print(f"Average value: {get_average(nums) :.2f}")
 print(f"Maximum value: {get_max(nums)}")
 print(f"Minimum value: {get_min(nums)}")
 print(f"Range value: {get_range(nums)}")
