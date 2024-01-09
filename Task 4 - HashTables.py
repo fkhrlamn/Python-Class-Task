@@ -51,7 +51,7 @@ class HT:
                 else:
                     index = self.rehash(index)
             print("The key of [", key, "] is not in the Table")
-
+            return None
 
     def delete(self, key):
         index = self.hash(key)
