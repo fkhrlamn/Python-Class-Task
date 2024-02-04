@@ -1,5 +1,5 @@
 #ECIE 3312/3101 Data Structure and Algorithm 
-Design
+Design#
 
 ##Project theme: Visualization of Data Structure
 ###Project on Minimum Spanning Tree Visualization
